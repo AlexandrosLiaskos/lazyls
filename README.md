@@ -5,6 +5,12 @@
 
 A simple, lazy-loaded terminal file browser with directory stats and Git integration, written in Go using the [`gocui`](https://github.com/jroimartin/gocui) library.
 
+![image](https://github.com/user-attachments/assets/c63f73b2-0771-472b-9dfc-c2e782232cc2)
+
+![image](https://github.com/user-attachments/assets/c86c8701-1b53-427f-901d-8e48479a65b7)
+
+![image](https://github.com/user-attachments/assets/89471afd-c663-4f77-8028-a388ccd7e6c8)
+
 ## Features
 
 *   **Dual-Pane Layout:** Separate views for folders and files.
