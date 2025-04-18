@@ -1,4 +1,3 @@
-```markdown
 # lazyls
 
 [![Go Report Card](https://goreportcard.com/badge/github.com/AlexandrosLiaskos/lazyls)](https://goreportcard.com/report/github.com/AlexandrosLiaskos/lazyls)
@@ -111,4 +110,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](https://github.com/AlexandrosLiaskos/lazyls/blob/main/LICENSE) file for details.
-```
